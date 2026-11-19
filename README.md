@@ -10,7 +10,7 @@
 
 ## Key finding
 
-![West's worst-case completion rate beats CAISO's and PJM's middle estimates. ERCOT is promising but uncertain.](images/chart.png)
+![West's worst-case completion rate beats CAISO's and PJM's middle estimates. ERCOT is promising but uncertain.](chart.png)
 
 West's worst-case completion rate (18%) beats CAISO's (13%) and PJM's (9%) middle estimates. ERCOT is promising (38% middle estimate) but uncertain, with 61% of projects filed in 2020 or earlier still waiting.
 
@@ -70,4 +70,4 @@ Only CAISO and PJM met both thresholds. West failed the waiting-share threshold 
 
 - **1-page memo:** [memo.pdf](memo.pdf) ([Google Doc version](https://docs.google.com/document/d/1Dlyqy_IKOrYr5ibBXreZHWbXUA8ciN_MHV60REknP7o/edit?usp=sharing))
 - **Working spreadsheet:** [Queued Up Spreadsheet](https://docs.google.com/spreadsheets/d/1NzjePuwh5PL3NYfH-hSvF6y36SB3HnPxYoHwfOtFwsE/edit?usp=sharing)
-- **Chart:** [images/chart.png](images/chart.png)
+- **Chart:** [images/chart.png](chart.png)
